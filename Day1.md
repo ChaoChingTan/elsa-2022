@@ -30,7 +30,7 @@ Getting help in Linux can be accomplished by using the `man` command and the `--
 
 Many Linux distributions partially follow the [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/). The FHS may help make more Unix/Linux file system trees conform better in the future.
 
-Refer to this lab for more details.
+Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Filesystem_Tree.md) for more details.
 
 ## Mapped Chapters
 
