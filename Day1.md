@@ -32,10 +32,19 @@ Many Linux distributions partially follow the [Filesystem Hierarchy Standard](ht
 
 Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Filesystem_Tree.md) for more details.
 
+## Linux Processes
+
+Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Processes.md) for an overview on linux processes.
+
+## [Signals](https://github.com/ChaoChingTan/labs/blob/main/Signals.md)
+
 ## Mapped Chapters
 
 * Chapter 1
 * Chapter 28
+* Chapter 2
+* Chapter 3
+* Chapter 4
 
 ## Additional Resources
 
