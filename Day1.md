@@ -2,13 +2,13 @@
 
 ## Introduction
 
-* [LFCS Exam Objectives](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
-
 * [Course Outline](https://training.linuxfoundation.org/training/essentials-of-linux-system-administration/)
+
+* [LFCS Exam Objectives](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
 
 * [The Linux Foundation](https://www.linuxfoundation.org/)
 
-* Assessment Components
+* Assessment
 
 ## Virtualization Concepts
 
@@ -32,11 +32,17 @@ Many Linux distributions partially follow the [Filesystem Hierarchy Standard](ht
 
 Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Filesystem_Tree.md) for more details.
 
+## [Navigating the Filesystem](https://github.com/ChaoChingTan/labs/blob/main/Linux_Navigating.md)
+
+## [Shell Features](https://github.com/ChaoChingTan/labs/blob/main/Shell_Features.md)
+
 ## Linux Processes
 
 Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Processes.md) for an overview on linux processes.
 
 ## [Signals](https://github.com/ChaoChingTan/labs/blob/main/Signals.md)
+
+## [Software Installation on Linux](https://github.com/ChaoChingTan/labs/blob/main/Linux_Software_Installation.md)
 
 ## Mapped Chapters
 
@@ -45,8 +51,15 @@ Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Processes.md
 * Chapter 2
 * Chapter 3
 * Chapter 4
+* Chapter 5
+* Chapter 6
+* Chapter 8
+* Chapter 9
 
 ## Additional Resources
 
 * [Linux Fundamentals Textbook](https://linux-training.be/linuxfun.pdf)
   * Chapter 11 - Linux file tree
+  * Chapter 8 - Working with Directories
+  * Chapter 9 - Working with Files
+  * Chapter 10 - Working with File Contents
