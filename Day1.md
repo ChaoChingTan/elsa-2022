@@ -10,6 +10,8 @@
 
 * Assessment
 
+* [Pre-requisites](https://github.com/ChaoChingTan/elsa-2022/blob/main/Pre-requisites.md) - Including a link to the LFS101x course.
+
 ## Virtualization Concepts
 
 Virtualization concepts are touched upon in the following lab.
@@ -44,7 +46,7 @@ Refer to [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Processes.md
 
 ## [Software Installation on Linux](https://github.com/ChaoChingTan/labs/blob/main/Linux_Software_Installation.md)
 
-## Mapped Chapters
+## Mapped Chapters to LMS courseware
 
 * Chapter 1
 * Chapter 28
